@@ -1,1 +1,12 @@
-uvicorn main:app --reload
+# uvicorn main:app --reload
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Chess Logic & API Requests
+python-chess
+requests
+pydantic
+
+motor
